@@ -1,6 +1,46 @@
 {
 	"incitems" : [
 	{
+		"abr": "supernova",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "superheatwave",
+		"price": 1800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bouldermasshit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "leanatmosphere",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "icestorm",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "heavyair",
+		"price": 6000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidportal",
+		"price": 3200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "beetlerush",
+		"price": 12000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "tornado",
 		"price": 800,
 		"karmatype": "Bad"
@@ -236,6 +276,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 100000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -357,7 +402,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -369,7 +414,32 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 88
 }
