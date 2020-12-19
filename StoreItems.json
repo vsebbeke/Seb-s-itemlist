@@ -5009,7 +5009,397 @@
 		"price": 91,
 		"category": "Hats",
 		"defname": "RNApparel_MilitaryCap_M81cam"
-	}
+	},
+	{
+		"abr": "aa-12",
+		"price": 767,
+		"category": "Gun Nut",
+		"defname": "GN_AATwelve"
+	},
+	{
+		"abr": "fieldcapmulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MilitaryCap_Multicam"
+	},
+	{
+		"abr": "formalagent",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_AdaREmake"
+	},
+	{
+		"abr": "formalprofessional",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Wick"
+	},
+	{
+		"abr": "formalspy",
+		"price": 298,
+		"category": "Formal",
+		"defname": "RNApparel_Shirt_Spy"
+	},
+	{
+		"abr": "g-98",
+		"price": 1525,
+		"category": "Gun Nut",
+		"defname": "GN_GlockFLUX"
+	},
+	{
+		"abr": "galilace",
+		"price": 775,
+		"category": "Gun Nut",
+		"defname": "GN_GalilACE"
+	},
+	{
+		"abr": "gasmask4a1",
+		"price": 177,
+		"category": "Masks",
+		"defname": "RNApparel_4A1Gasmask"
+	},
+	{
+		"abr": "gasmaskgp-5",
+		"price": 177,
+		"category": "Masks",
+		"defname": "RNApparel_GP5Gasmask"
+	},
+	{
+		"abr": "ghilliesuit",
+		"price": 219,
+		"category": "Combat jackets",
+		"defname": "RNApparel_GhillieSuit"
+	},
+	{
+		"abr": "ghilliesuithood",
+		"price": 134,
+		"category": "Masks",
+		"defname": "RNApparel_NewGhillieHood"
+	},
+	{
+		"abr": "gorka4",
+		"price": 350,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_GORKA4C"
+	},
+	{
+		"abr": "greyhawk55",
+		"price": 263,
+		"category": "Gun Nut",
+		"defname": "GN_GreyHawk"
+	},
+	{
+		"abr": "halfmask",
+		"price": 177,
+		"category": "Masks",
+		"defname": "RNApparel_GTAHalfMask"
+	},
+	{
+		"abr": "handgunholsters",
+		"price": 34,
+		"category": "Accessories",
+		"defname": "RNApparel_Holsters_Shoulder"
+	},
+	{
+		"abr": "heavychargerifle",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "RUA_Gun_HeavyChargeRifle"
+	},
+	{
+		"abr": "bardspell:discord",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_Discord"
+	},
+	{
+		"abr": "holycasterspell:shieldother",
+		"price": 1267,
+		"category": "Scrolls",
+		"defname": "SpellOf_ShieldOther"
+	},
+	{
+		"abr": "hunterreactive",
+		"price": 3825,
+		"category": "Powered armor",
+		"defname": "RNApparel_HunterReactiveArmor"
+	},
+	{
+		"abr": "anti-materialrifle",
+		"price": 1717,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AntiMaterialRifle"
+	},
+	{
+		"abr": "baton",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Baton"
+	},
+	{
+		"abr": "battleaxe",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_BattleAxe"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BattleRifle"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "chargelmg",
+		"price": 2833,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "chargeminigun",
+		"price": 5458,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1008,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "chargerocketlauncher",
+		"price": 11667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "chargeshotgun",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "chargesmg",
+		"price": 1508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "chargesniperrifle",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "cleaver",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Cleaver"
+	},
+	{
+		"abr": "combathandgun",
+		"price": 291,
+		"category": "Ranged weapons",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "combatknife",
+		"price": 205,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 240,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "crossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Crossbow"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "flashgrenades",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "flintlock",
+		"price": 275,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "halberd",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 281,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "handcannon",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "hatchet",
+		"price": 147,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "hmg",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "hunterreactivehelmet",
+		"price": 2058,
+		"category": "Powered armor helmets",
+		"defname": "RNApparel_HunterReactiveHelmet"
+	},
+	{
+		"abr": "interceptorbodyarmor(m81)",
+		"price": 450,
+		"category": "Body armor",
+		"defname": "RNApparel_IBAM81Vest"
+	},
+	{
+		"abr": "k6-3helmet",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_K63Helmet"
+	},
+	{
+		"abr": "k6-3helmetopen",
+		"price": 475,
+		"category": "Helmets",
+		"defname": "RNApparel_K63HelmetOpen"
+	},
+	{
+		"abr": "ks-23",
+		"price": 375,
+		"category": "Gun Nut",
+		"defname": "GN_KSTwentyThree"
+	},
+	{
+		"abr": "laserlmg",
+		"price": 3200,
+		"category": "Ranged weapons",
+		"defname": "Laser_LMG"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Laser_Pistol"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Laser_Rifle"
+	},
+	{
+		"abr": "lasersmg",
+		"price": 2283,
+		"category": "Ranged weapons",
+		"defname": "Laser_SMG"
+	},
+	{
+		"abr": "lasersniper",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Laser_Sniper"
+	},
+	{
+		"abr": "leatherjacket",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Jacket_LeatherBlank"
+	},
+	{
+		"abr": "lever-actionrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LeverActionRifle"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "longbow",
+		"price": 197,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "lynx-thelmet",
+		"price": 517,
+		"category": "Helmets",
+		"defname": "RNApparel_LynxTHelmet"
+	},
+	{
+		"abr": "lynx-thelmetopen",
+		"price": 517,
+		"category": "Helmets",
+		"defname": "RNApparel_LynxTHelmetOpen"
+	},
+	{
+		"abr": "m1helmet",
+		"price": 119,
+		"category": "Helmets",
+		"defname": "RNApparel_M1Helmet"
+	},
+	{
+		"abr": "m16a4",
+		"price": 833,
+		"category": "Gun Nut",
+		"defname": "GN_M16AFour"
+	},
+	{
+		"abr": "m202a1",
+		"price": 1208,
+		"category": "Gun Nut",
+		"defname": "GN_M202F"
+	},
 	],
-	"total": 916
+	"total": 981
 }
