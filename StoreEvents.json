@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
+		"price": 10000000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 1000000000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
