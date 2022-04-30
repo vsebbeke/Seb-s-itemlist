@@ -3637,36 +3637,6 @@
       "price": 70
     },
     {
-      "abr": "clothingrack",
-      "category": "Furniture",
-      "defname": "LWM_Clothing_Rack",
-      "price": 170
-    },
-    {
-      "abr": "doubleshelf",
-      "category": "Furniture",
-      "defname": "LWM_BigShelf",
-      "price": 224
-    },
-    {
-      "abr": "foodbasket",
-      "category": "Furniture",
-      "defname": "LWM_Food_Basket",
-      "price": 270
-    },
-    {
-      "abr": "hampers",
-      "category": "Furniture",
-      "defname": "LWM_FabricHamper",
-      "price": 383
-    },
-    {
-      "abr": "hayloft",
-      "category": "Furniture",
-      "defname": "LWM_Hayloft",
-      "price": 287
-    },
-    {
       "abr": "hugeanimapearl",
       "category": "Manufactured",
       "defname": "AA_HugeAnimaPearl",
@@ -3805,28 +3775,10 @@
       "price": 3
     },
     {
-      "abr": "mealtrayrack",
-      "category": "Furniture",
-      "defname": "LWM_MealRack",
-      "price": 255
-    },
-    {
-      "abr": "meathook",
-      "category": "Furniture",
-      "defname": "LWM_Meat_Hook",
-      "price": 254
-    },
-    {
       "abr": "medicinalcactipinequill",
       "category": "Medicine",
       "defname": "AA_CactipineQuill",
       "price": 17
-    },
-    {
-      "abr": "medicinecabinet",
-      "category": "Furniture",
-      "defname": "LWM_Medicine_Cabinet",
-      "price": 203
     },
     {
       "abr": "megalouse",
@@ -3991,18 +3943,6 @@
       "price": 3
     },
     {
-      "abr": "pallet",
-      "category": "Furniture",
-      "defname": "LWM_Pallet",
-      "price": 220
-    },
-    {
-      "abr": "palletwithwrapping",
-      "category": "Furniture",
-      "defname": "LWM_Pallet_Covered",
-      "price": 321
-    },
-    {
       "abr": "pebblemit",
       "category": "Animals",
       "defname": "AA_PebbleMit",
@@ -4135,12 +4075,6 @@
       "price": 8333
     },
     {
-      "abr": "antigrainchargerifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_AntigrainChargeRifle",
-      "price": 4233
-    },
-    {
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
@@ -4265,12 +4199,6 @@
       "category": "Bionic",
       "defname": "CircadianHalfCycler",
       "price": 1717
-    },
-    {
-      "abr": "civilianspaceundersuit",
-      "category": "Apparel",
-      "defname": "Apparel_SpaceJumpsuit_SOS",
-      "price": 583
     },
     {
       "abr": "coagulator",
@@ -4549,18 +4477,6 @@
       "price": 227
     },
     {
-      "abr": "lightevagear",
-      "category": "Apparel",
-      "defname": "Apparel_Light_ETMG_SOS",
-      "price": 1083
-    },
-    {
-      "abr": "lightevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_Light_Spacehelmet_SOS",
-      "price": 967
-    },
-    {
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
@@ -4585,244 +4501,10 @@
       "price": 1717
     },
     {
-      "abr": "andrewsarchus",
-      "category": "Animals",
-      "defname": "Andrewsarchus",
-      "price": 3667
-    },
-    {
-      "abr": "andrewsarchusmeat",
-      "category": "Meat",
-      "defname": "Meat_Andrewsarchus",
-      "price": 3
-    },
-    {
-      "abr": "arthropleura",
-      "category": "Animals",
-      "defname": "Arthropleura",
-      "price": 1500
-    },
-    {
-      "abr": "arthropleuraegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArthropleuraFertilized",
-      "price": 208
-    },
-    {
-      "abr": "aurochs",
-      "category": "Animals",
-      "defname": "Aurochs",
-      "price": 1500
-    },
-    {
-      "abr": "castoroides",
-      "category": "Animals",
-      "defname": "Castoroides",
-      "price": 1667
-    },
-    {
-      "abr": "chalicotherium",
-      "category": "Animals",
-      "defname": "Chalicotherium",
-      "price": 2167
-    },
-    {
-      "abr": "chalicotheriummeat",
-      "category": "Meat",
-      "defname": "Meat_Chalicotherium",
-      "price": 3
-    },
-    {
-      "abr": "crocodilemeat",
-      "category": "Meat",
-      "defname": "Meat_Quinkana",
-      "price": 3
-    },
-    {
-      "abr": "daeodon",
-      "category": "Animals",
-      "defname": "Daeodon",
-      "price": 2667
-    },
-    {
-      "abr": "deinotherium",
-      "category": "Animals",
-      "defname": "Deinotherium",
-      "price": 2917
-    },
-    {
-      "abr": "deinotheriumtusk",
-      "category": "Items",
-      "defname": "DeinotheriumTusk",
-      "price": 1000
-    },
-    {
-      "abr": "dinocrocuta",
-      "category": "Animals",
-      "defname": "Dinocrocuta",
-      "price": 2500
-    },
-    {
-      "abr": "dinocrocutameat",
-      "category": "Meat",
-      "defname": "Meat_Dinocrocuta",
-      "price": 3
-    },
-    {
-      "abr": "dinopithecus",
-      "category": "Animals",
-      "defname": "Dinopithecus",
-      "price": 2000
-    },
-    {
-      "abr": "dinornis",
-      "category": "Animals",
-      "defname": "Dinornis",
-      "price": 2833
-    },
-    {
-      "abr": "dinornisegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggDinornisFertilized",
-      "price": 117
-    },
-    {
-      "abr": "diprotodon",
-      "category": "Animals",
-      "defname": "Diprotodon",
-      "price": 2167
-    },
-    {
-      "abr": "diprotodonmeat",
-      "category": "Meat",
-      "defname": "Meat_Diprotodon",
-      "price": 3
-    },
-    {
-      "abr": "doedicurus",
-      "category": "Animals",
-      "defname": "Doedicurus",
-      "price": 1833
-    },
-    {
-      "abr": "doedicurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Doedicurus",
-      "price": 3
-    },
-    {
-      "abr": "doedicurusshell",
-      "category": "Items",
-      "defname": "DoedicurusShell",
-      "price": 1333
-    },
-    {
-      "abr": "elasmotherium",
-      "category": "Animals",
-      "defname": "Elasmotherium",
-      "price": 2167
-    },
-    {
-      "abr": "elasmotheriumhorn",
-      "category": "Items",
-      "defname": "ElasmotheriumHorn",
-      "price": 2500
-    },
-    {
-      "abr": "elasmotheriumwool",
-      "category": "Wools",
-      "defname": "ElasmotheriumWool",
-      "price": 8
-    },
-    {
-      "abr": "enhydriodon",
-      "category": "Animals",
-      "defname": "Enhydriodon",
-      "price": 2167
-    },
-    {
-      "abr": "gigantophis",
-      "category": "Animals",
-      "defname": "Gigantophis",
-      "price": 4167
-    },
-    {
-      "abr": "gigantophisegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggGigantophisFertilized",
-      "price": 300
-    },
-    {
-      "abr": "gigantopithecus",
-      "category": "Animals",
-      "defname": "Gigantopithecus",
-      "price": 2333
-    },
-    {
-      "abr": "gomphotaria",
-      "category": "Animals",
-      "defname": "Gomphotaria",
-      "price": 3333
-    },
-    {
-      "abr": "josephoartigasia",
-      "category": "Animals",
-      "defname": "Josephoartigasia",
-      "price": 1833
-    },
-    {
-      "abr": "josephoartigasiameat",
-      "category": "Meat",
-      "defname": "Meat_Josephoartigasia",
-      "price": 3
-    },
-    {
-      "abr": "josephoartigasiawool",
-      "category": "Wools",
-      "defname": "JosephoartigasiaWool",
-      "price": 6
-    },
-    {
-      "abr": "kangaroomeat",
-      "category": "Meat",
-      "defname": "Meat_Procoptodon",
-      "price": 3
-    },
-    {
-      "abr": "lizardmeat",
-      "category": "Meat",
-      "defname": "Meat_Megalania",
-      "price": 3
-    },
-    {
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
       "price": 717
-    },
-    {
-      "abr": "macrauchenia",
-      "category": "Animals",
-      "defname": "Macrauchenia",
-      "price": 1667
-    },
-    {
-      "abr": "macraucheniameat",
-      "category": "Meat",
-      "defname": "Meat_Macrauchenia",
-      "price": 3
-    },
-    {
-      "abr": "mammothtusk",
-      "category": "Items",
-      "defname": "MammothTusk",
-      "price": 1167
-    },
-    {
-      "abr": "mammothwool",
-      "category": "Wools",
-      "defname": "MammothWool",
-      "price": 6
     },
     {
       "abr": "mechnode",
@@ -4835,60 +4517,6 @@
       "category": "Furniture",
       "defname": "Throne",
       "price": 475
-    },
-    {
-      "abr": "megalania",
-      "category": "Animals",
-      "defname": "Megalania",
-      "price": 3000
-    },
-    {
-      "abr": "megalaniaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggMegalaniaFertilized",
-      "price": 150
-    },
-    {
-      "abr": "megaloceros",
-      "category": "Animals",
-      "defname": "Megaloceros",
-      "price": 1833
-    },
-    {
-      "abr": "megalocerosantlers",
-      "category": "Items",
-      "defname": "MegalocerosAntlers",
-      "price": 2083
-    },
-    {
-      "abr": "megalochelys",
-      "category": "Animals",
-      "defname": "Megalochelys",
-      "price": 2333
-    },
-    {
-      "abr": "megalochelysegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggMegalochelysFertilized",
-      "price": 267
-    },
-    {
-      "abr": "meganeura",
-      "category": "Animals",
-      "defname": "Meganeura",
-      "price": 1250
-    },
-    {
-      "abr": "meganeuraegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggMeganeuraFertilized",
-      "price": 117
-    },
-    {
-      "abr": "militaryspaceundersuit",
-      "category": "Apparel",
-      "defname": "Apparel_SpaceJumpsuitMilitary_SOS",
-      "price": 1117
     },
     {
       "abr": "mindscrew",
@@ -4939,30 +4567,6 @@
       "price": 2000
     },
     {
-      "abr": "ottermeat",
-      "category": "Meat",
-      "defname": "Meat_Enhydriodon",
-      "price": 3
-    },
-    {
-      "abr": "palaeeudyptes",
-      "category": "Animals",
-      "defname": "Palaeeudyptes",
-      "price": 1833
-    },
-    {
-      "abr": "palaeeudyptesegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggPalaeeudyptesFertilized",
-      "price": 217
-    },
-    {
-      "abr": "paraceratherium",
-      "category": "Animals",
-      "defname": "Paraceratherium",
-      "price": 6167
-    },
-    {
       "abr": "pendant",
       "category": "Inert relics",
       "defname": "RelicInertPendant",
@@ -5011,18 +4615,6 @@
       "price": 3333
     },
     {
-      "abr": "platybelodon",
-      "category": "Animals",
-      "defname": "Platybelodon",
-      "price": 2000
-    },
-    {
-      "abr": "platybelodontusk",
-      "category": "Items",
-      "defname": "PlatybelodonTusk",
-      "price": 583
-    },
-    {
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
@@ -5063,12 +4655,6 @@
       "category": "Noble apparel",
       "defname": "Apparel_RobeRoyal",
       "price": 450
-    },
-    {
-      "abr": "procoptodon",
-      "category": "Animals",
-      "defname": "Procoptodon",
-      "price": 1833
     },
     {
       "abr": "psychicharmonizer",
@@ -5269,40 +4855,10 @@
       "price": 417
     },
     {
-      "abr": "pulmonoscorpius",
-      "category": "Animals",
-      "defname": "Pulmonoscorpius",
-      "price": 1750
-    },
-    {
-      "abr": "purussaurus",
-      "category": "Animals",
-      "defname": "Purussaurus",
-      "price": 5333
-    },
-    {
-      "abr": "purussaurusegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggPurussaurusFertilized",
-      "price": 333
-    },
-    {
       "abr": "pyre",
       "category": "Misc",
       "defname": "Pyre",
       "price": 230
-    },
-    {
-      "abr": "quinkana",
-      "category": "Animals",
-      "defname": "Quinkana",
-      "price": 3333
-    },
-    {
-      "abr": "quinkanaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggQuinkanaFertilized",
-      "price": 150
     },
     {
       "abr": "reprocessorstomach",
@@ -5371,12 +4927,6 @@
       "price": 198
     },
     {
-      "abr": "safe",
-      "category": "Furniture",
-      "defname": "LWM_Safe",
-      "price": 1017
-    },
-    {
       "abr": "sandlion",
       "category": "Animals",
       "defname": "AA_SandLion",
@@ -5429,36 +4979,6 @@
       "category": "Animals",
       "defname": "AA_ShockGoat",
       "price": 583
-    },
-    {
-      "abr": "short-facedbear",
-      "category": "Animals",
-      "defname": "ShortfacedBear",
-      "price": 2833
-    },
-    {
-      "abr": "sivatherium",
-      "category": "Animals",
-      "defname": "Sivatherium",
-      "price": 3000
-    },
-    {
-      "abr": "sivatheriummeat",
-      "category": "Meat",
-      "defname": "Meat_Sivatherium",
-      "price": 3
-    },
-    {
-      "abr": "sivatheriummilk",
-      "category": "Animal products",
-      "defname": "SivatheriumMilk",
-      "price": 12
-    },
-    {
-      "abr": "skip",
-      "category": "Furniture",
-      "defname": "LWM_DeepStorage_Skip",
-      "price": 305
     },
     {
       "abr": "skiphound",
@@ -5537,24 +5057,6 @@
       "category": "Misc",
       "defname": "NatureShrine_Small",
       "price": 592
-    },
-    {
-      "abr": "smilodon",
-      "category": "Animals",
-      "defname": "Smilodon",
-      "price": 2000
-    },
-    {
-      "abr": "smilodonfangs",
-      "category": "Items",
-      "defname": "SmilodonFangs",
-      "price": 1333
-    },
-    {
-      "abr": "snakemeat",
-      "category": "Meat",
-      "defname": "Meat_Titanoboa",
-      "price": 3
     },
     {
       "abr": "spacetelescope",
@@ -5645,12 +5147,6 @@
       "category": "Headgear",
       "defname": "Apparel_Tailcap",
       "price": 75
-    },
-    {
-      "abr": "tallshelves",
-      "category": "Furniture",
-      "defname": "LWM_VeryBigShelf",
-      "price": 550
     },
     {
       "abr": "targuzzler",
@@ -5773,30 +5269,6 @@
       "price": 1250
     },
     {
-      "abr": "titanis",
-      "category": "Animals",
-      "defname": "Titanis",
-      "price": 1667
-    },
-    {
-      "abr": "titanisegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggTitanisFertilized",
-      "price": 133
-    },
-    {
-      "abr": "titanoboa",
-      "category": "Animals",
-      "defname": "Titanoboa",
-      "price": 4500
-    },
-    {
-      "abr": "titanoboaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggTitanoboaFertilized",
-      "price": 333
-    },
-    {
       "abr": "tophat",
       "category": "Headgear",
       "defname": "Apparel_HatTop",
@@ -5825,18 +5297,6 @@
       "category": "Bionic",
       "defname": "ToughskinGland",
       "price": 1717
-    },
-    {
-      "abr": "uintatherium",
-      "category": "Animals",
-      "defname": "Uintatherium",
-      "price": 1667
-    },
-    {
-      "abr": "uintatheriummeat",
-      "category": "Meat",
-      "defname": "Meat_Uintatherium",
-      "price": 3
     },
     {
       "abr": "unblinkingeye",
@@ -5965,12 +5425,6 @@
       "price": 16
     },
     {
-      "abr": "walrusmeat",
-      "category": "Meat",
-      "defname": "Meat_Gomphotaria",
-      "price": 3
-    },
-    {
       "abr": "warhammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Warhammer",
@@ -5981,18 +5435,6 @@
       "category": "Animal",
       "defname": "AA_WaywardMobileAssembler",
       "price": 1083
-    },
-    {
-      "abr": "weaponscabinet",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsCabinet",
-      "price": 254
-    },
-    {
-      "abr": "weaponslocker",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsLocker",
-      "price": 237
     },
     {
       "abr": "wildpawn",
@@ -6023,12 +5465,6 @@
       "category": "Animals",
       "defname": "AA_WindBeast",
       "price": 1250
-    },
-    {
-      "abr": "woollymammoth",
-      "category": "Animals",
-      "defname": "WoollyMammoth",
-      "price": 2500
     },
     {
       "abr": "zeushammer",
@@ -6113,19 +5549,7 @@
       "category": "Serum",
       "defname": "Zombie90Serum",
       "price": 1800
-    },
-    {
-      "abr": "zygolophodon",
-      "category": "Animals",
-      "defname": "Zygolophodon",
-      "price": 3167
-    },
-    {
-      "abr": "zygolophodontusk",
-      "category": "Items",
-      "defname": "ZygolophodonTusk",
-      "price": 1667
     }
   ],
-  "total": 1021
+  "total": 925
 }
